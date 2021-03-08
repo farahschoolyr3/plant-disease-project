@@ -2,7 +2,7 @@
 
 Install Libraries
 
-pip install tensorflow
-pip install tensorflow_hub
-pip install opencv-python 
-pip install keras
+1)pip install tensorflow
+2)pip install tensorflow_hub
+3)pip install opencv-python 
+4)pip install keras
